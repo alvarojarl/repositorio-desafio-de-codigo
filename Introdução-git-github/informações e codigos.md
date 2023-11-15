@@ -10,3 +10,5 @@ git clone "endereço" - copia todos os arquivos da main no github
 
 git log - mostra as alterações feitas e os commits
 
+git status - mostra se houveram alterações não salvas no repositório em relação ao clone
+
