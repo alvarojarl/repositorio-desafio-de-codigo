@@ -1,7 +1,7 @@
 
 ## Desafio de projeto DIO Git GitHub
 
-projeto para voltar a coda de maneira satisfatória.
+projeto para voltar a codar de maneira satisfatória.
 
 ## 📖Estudos
 * [meu-projeto](https://github.com/alvarojarl/meu-projeto)
